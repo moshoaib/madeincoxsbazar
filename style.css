@@ -35,6 +35,9 @@
     padding: 10px 20px;
     font-weight: 500;
     cursor: pointer;
+    
+}
+.carousel-item button{
     background-color: white;
 }
 

@@ -1,0 +1,104 @@
+.container{
+    margin-bottom: 80px;
+    
+}
+.navbar-nav {
+    float:none;
+    margin:0 auto;
+    display: block;
+    text-align: center;
+}
+
+.navbar-nav > li {
+    display: inline-block;
+    float:none;
+}
+
+
+.carousel-bg{
+        background-color: #e31e2e;
+        border-radius: 10px;
+}
+.carousel-item{
+    padding: 50px 40px;
+}
+.burger-text{
+    color: white;
+}
+.price{
+    color: #f9af1a;
+}
+.ordernow{
+    color:red;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.box1, .box2, .box3{
+    height: 100px;
+    margin-top: 20px;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+.box1{
+    background-image: linear-gradient(#FFA03D, #F9AF1B);
+}
+.box2{
+    background-image: linear-gradient(#FF88AD, #EB2228);
+}
+.box3{
+    background-image: linear-gradient(#4289FF, #115596);
+}
+
+.title-heading{
+    padding: 0px 15px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.menu button{
+    background-color: #e31e2e;
+    color: white;
+}
+.card{
+    border-radius: 10px;
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    margin-top: 40px;
+}
+
+.card-price{
+    color: #e31e2e;
+}
+
+#contact{
+    height: 300px;
+    color: white;
+    text-align: center;
+}
+.submit-button{
+    background-color: orange;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.input-button{
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: 500;
+    
+}
+.input-button:hover{
+    border: none;
+}
+footer{
+    text-align: center;
+}
